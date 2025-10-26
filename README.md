@@ -1,4 +1,4 @@
-Solutions to some of the USACO problems I solved ('cause they get lost in the USACO site :P)
+Solutions to some of the USACO problems I solved (cuz they get lost in the USACO site)
 
 Prefix sum:
 
